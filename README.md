@@ -20,6 +20,6 @@ know: <br/>
 ### Learning: <br/>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-<br/>
-<img width='800' src="https://github-readme-stats.vercel.app/api/top-langs?username=DavideLuporini&show_icons=true&locale=en&layout=compact" alt="DavideLuporini" />
+<!-- <br/>
+<img width='800' src="https://github-readme-stats.vercel.app/api/top-langs?username=DavideLuporini&show_icons=true&locale=en&layout=compact" alt="DavideLuporini" /> -->
 
