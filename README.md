@@ -2,11 +2,11 @@
 
 ## I'm a full stack web developer student!
 
-🌱 I’m currently learning laravel.
+🌱 I’m currently learning laravel
 
-🥅 2022 Goals: start career as full stack web developer.
+🥅 2022 Goals: start career as full stack web developer
 
-🥽 Hobbies: dancing Tango Argentino, taking theater classes and walks in the nature.
+🥽 Hobbies: dancing Tango Argentino, taking theater classes and walks in the nature
 
 📫 How to reach me: linda.bettini@hotmail.it
 
