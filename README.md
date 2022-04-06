@@ -2,11 +2,9 @@
 
 🎓 I'm a Boolean student currently learning full stack web developing
 
-🌱 I’m currently learning laravel
+🌱 Currently studying Laravel
 
 📍 Based in: Florence, Tuscany
-
-🥅 2022 Goals: start career as full stack web developer
 
 🥽 Hobbies: dancing Tango Argentino, taking theater classes and walks in the nature
 
