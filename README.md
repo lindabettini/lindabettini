@@ -1,8 +1,10 @@
 # Hi there, I'm Linda 👋
 
-## I'm a full stack web developer student!
+🎓 I'm a Boolean student currently learning full stack web developing
 
 🌱 I’m currently learning laravel
+
+📍 Based in: Florence, Tuscany
 
 🥅 2022 Goals: start career as full stack web developer
 
