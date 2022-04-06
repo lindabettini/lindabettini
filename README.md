@@ -1,12 +1,12 @@
 # Hi there, I'm Linda 👋
 
-🎓 ## I'm a Boolean student currently learning full stack web developing
+## 🎓 I'm a Boolean student currently learning full stack web developing
 
-📍 ## Based in: Florence, Tuscany
+## 📍 Based in: Florence, Tuscany
 
-🥽 ## Hobbies: dancing Tango Argentino, taking theater classes and walks in the nature
+## 🥽 Hobbies: dancing Tango Argentino, taking theater classes and walks in the nature
 
-📫 ## How to reach me: linda.bettini@hotmail.it
+## 📫 How to reach me: linda.bettini@hotmail.it
 
 
 ---
