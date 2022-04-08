@@ -4,7 +4,7 @@
 
 ### 📍 Based in: Florence, Tuscany
 
-### 🥽 Hobbies: dancing Tango Argentino, taking theater classes and walks in the nature
+### 🥽 Hobbies: dancing Tango Argentino, taking theater classes and longs walks in the nature
 
 ### 📫 How to reach me: linda.bettini@hotmail.it
 
